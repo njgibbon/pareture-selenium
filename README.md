@@ -6,7 +6,7 @@ Note I am using the latest JUnit Release Candidate as I wanted to Order Method e
 
 
 # test suite and test execution reporting
-https://github.com/njgibbon/pareture-test <br />
+https://github.com/njgibbon/pareture-test <br/>
 ( TODO: link to actual test suite once docs created. ) <br />
 
 # logic
@@ -33,4 +33,4 @@ Test Exection Order: <br />
 https://junit.org/junit5/docs/5.4.0-M1/user-guide/index.html#writing-tests-test-execution-order <br />
 
 ## context
-Wrote using ItelliJ on a 2017 MacBook.
+Ran on a 2017 MacBook.
