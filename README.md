@@ -1,24 +1,33 @@
 # pareture-selenium
 
-# description
-Selenium starter template and test cases for my basic static website: https://pareture.xyz. Driven using JUnit5. <br />
-Note I am using the latest JUnit Release Candidate as I wanted to Order Method execution.
+## description
+Selenium starter template and test cases for my basic static website: https://pareture.xyz. <br />
+Driven using JUnit5. <br />
+Note I am using the latest JUnit Release Candidate as I wanted to Order Test execution.
 
 
-# test suite and test execution reporting
-https://github.com/njgibbon/pareture-test <br/>
-( TODO: link to actual test suite once docs created. ) <br />
+## website project
 
-# logic
-One single test suite is executed. Chrome is the chosen browser. <br />
-Before tests Chrome Driver is started and afterwards it is closed. <br />
-The site is a static SPA. <br />
-Each test Opens an internal / external link on the page. <br />
-Once there it does some basic validation that the new page is as expected. <br />
-It then moves on. <br />
+https://github.com/njgibbon/pareture
+
+## test project
+
+https://github.com/njgibbon/pareture-test
+
+## test suite living documentation
+
+https://github.com/njgibbon/pareture-test/blob/master/functional-test/front-end/website-navigation/TestSuite2-WebsiteNavigation.md
+
+## test reporting
+
+https://github.com/njgibbon/pareture-test/blob/master/functional-test/front-end/website-navigation/suite-reports/TestSuiteReport-12012019-TestSuite2-WebsiteNavigation.md
+
+## youtube evidence of execution
+
+https://youtu.be/7iuN9ULCjY8
 
 
-# execute 
+## execute 
 ```
 mvn test -Dtest=TestSuite1
 ```
