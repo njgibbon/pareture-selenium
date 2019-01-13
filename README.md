@@ -6,6 +6,10 @@ Driven using JUnit5. <br />
 Note I am using the latest JUnit Release Candidate as I wanted to Order Test execution.
 
 
+## junit5 execution order blog post
+
+https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26
+
 ## website project
 
 https://github.com/njgibbon/pareture
